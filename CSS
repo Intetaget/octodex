@@ -1,0 +1,31 @@
+
+.octocat img{
+    width: 180px;
+  margin: 10px;
+  padding: px;
+  border: solid grey 1px;
+}
+
+.authors img {
+  width: 20px; margin:15px; float:right;
+}
+
+ul{list-style-type:none
+  }
+.octocat{
+  
+ float:left; 
+}
+.image-caption{
+  float:right;
+}  
+v.authors img {
+  width: 25px;
+  border: none; }
+.image-footer {
+  max-width: 100%;
+  font-family: helvetica;
+  font-weight: bold;
+  font-size: 14px;;
+}
+
