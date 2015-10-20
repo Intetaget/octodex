@@ -1,0 +1,27 @@
+
+.octocat img{
+    width: 170px;
+  margin: 10px;
+  padding: px;
+  border: solid grey 1px;
+}
+
+.authors img {
+  width: 10px; margin:15px; float:right;
+}
+
+ul{list-style-type:none
+  }
+.octocat{
+  
+ float:left; 
+}
+.image-caption{
+  float:right;
+}  
+.authors img {
+  float: right;
+  }
+image-footer{
+  width:40px;
+}
