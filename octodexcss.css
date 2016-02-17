@@ -1,0 +1,27 @@
+
+.octocat img{
+    width: 180px;
+  margin: 10px;
+  padding: px;
+  border: solid grey 1px;
+}
+
+.authors img {
+  width: 25px; margin:10px; float:right;
+ }
+
+ul{list-style-type:none
+  }
+.octocat{
+  
+ float:left; 
+}
+.image-caption{
+  float:right;
+}  
+.authors img {
+  float: right;border: solid grey 1px;
+  }
+  width:40px;
+}
+Status API Training Shop Blog About Pricing
